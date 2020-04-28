@@ -1,0 +1,9 @@
+{
+  "name": "keitaro-api-nodejs",
+  "version": "0.0.1",
+  "description": "Keitaro API",
+  "main": "index.js",
+  "author": "Oleksandr Krokhmalnyi <magr0s.ak@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
